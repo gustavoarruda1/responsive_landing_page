@@ -475,7 +475,6 @@ header img {
         display: inline;
         text-align: center;
         justify-content: center;
-
     }
 
     .container-galeria>h2 {
@@ -505,4 +504,5 @@ header img {
         text-align: justify;
         display: inline;
     }
+    
 }
